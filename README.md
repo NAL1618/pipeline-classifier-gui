@@ -41,31 +41,32 @@ Your final project directory should look like this:
 
 Your_Project_Folder/
 gui.py                      # The main application script
+
 predict_backend.py          # The AI model backend
 
 your_model_file.h5          # Your trained AI model
 
 input_folder/               # For simulation data
 
-simulation_data.mat
+    simulation_data.mat
 
 exp_input_folder/           # For live experimental data
 
-Sensor_Location_1/
+    Sensor_Location_1/
 
-20250805-1/
+        20250805-1/
 
-data_001.csv
+            data_001.csv
 
-data_002.csv
+            data_002.csv
 
-Sensor_Location_2/
+    Sensor_Location_2/
 
-20250805-1/
+        20250805-1/
 
-data_001.csv
+            data_001.csv
 
-data_002.csv
+            data_002.csv
             
 5. How to Use the Application
 Step 1: Run the GUI
