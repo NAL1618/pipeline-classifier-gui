@@ -40,17 +40,17 @@ exp_input_folder: This is where the application will watch for new experimental 
 Your final project directory should look like this:
 
 Your_Project_Folder/
-gui.py                      # The main application script
+gui.py                      ---The main application script
 
-predict_backend.py          # The AI model backend
+predict_backend.py          ---The AI model backend
 
-your_model_file.h5          # Your trained AI model
+your_model_file.h5          ---Your trained AI model
 
-input_folder/               # For simulation data
+input_folder/               ---For simulation data
 
     simulation_data.mat
 
-exp_input_folder/           # For live experimental data
+exp_input_folder/           ---For live experimental data
 
     Sensor_Location_1/
 
